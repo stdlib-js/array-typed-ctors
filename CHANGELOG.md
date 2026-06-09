@@ -1,0 +1,241 @@
+# CHANGELOG
+
+> Package changelog.
+
+<section class="release" id="unreleased">
+
+## Unreleased (2026-06-09)
+
+<section class="features">
+
+### Features
+
+-   [`12ccf2e`](https://github.com/stdlib-js/stdlib/commit/12ccf2e393440f9e4f14ae013462d76dc43bc644) - add float16 dtype support in `array/typed-ctors` [(#12710)](https://github.com/stdlib-js/stdlib/pull/12710)
+
+</section>
+
+<!-- /.features -->
+
+<section class="commits">
+
+### Commits
+
+<details>
+
+-   [`9630dd7`](https://github.com/stdlib-js/stdlib/commit/9630dd78446c77a6fbd9c666ba1eb1e7d480b096) - **docs:** order `float16` before `float32` in data type lists [(#12735)](https://github.com/stdlib-js/stdlib/pull/12735) _(by Philipp Burckhardt)_
+-   [`12ccf2e`](https://github.com/stdlib-js/stdlib/commit/12ccf2e393440f9e4f14ae013462d76dc43bc644) - **feat:** add float16 dtype support in `array/typed-ctors` [(#12710)](https://github.com/stdlib-js/stdlib/pull/12710) _(by Gururaj Gurram)_
+
+</details>
+
+</section>
+
+<!-- /.commits -->
+
+<section class="contributors">
+
+### Contributors
+
+A total of 2 people contributed to this release. Thank you to the following contributors:
+
+-   Gururaj Gurram
+-   Philipp Burckhardt
+
+</section>
+
+<!-- /.contributors -->
+
+</section>
+
+<!-- /.release -->
+
+<section class="release" id="v0.3.1">
+
+## 0.3.1 (2026-02-08)
+
+No changes reported for this release.
+
+</section>
+
+<!-- /.release -->
+
+<section class="release" id="v0.3.0">
+
+## 0.3.0 (2024-07-29)
+
+<section class="features">
+
+### Features
+
+-   [`8f4b5c4`](https://github.com/stdlib-js/stdlib/commit/8f4b5c410ffb5d06bb5cce02b84c5f7043c31fa7) - add boolean dtype support to `array/typed-ctors` [(#2391)](https://github.com/stdlib-js/stdlib/pull/2391)
+
+</section>
+
+<!-- /.features -->
+
+<section class="commits">
+
+### Commits
+
+<details>
+
+-   [`8f4b5c4`](https://github.com/stdlib-js/stdlib/commit/8f4b5c410ffb5d06bb5cce02b84c5f7043c31fa7) - **feat:** add boolean dtype support to `array/typed-ctors` [(#2391)](https://github.com/stdlib-js/stdlib/pull/2391) _(by Jaysukh Makvana, Athan Reines)_
+
+</details>
+
+</section>
+
+<!-- /.commits -->
+
+<section class="contributors">
+
+### Contributors
+
+A total of 2 people contributed to this release. Thank you to the following contributors:
+
+-   Athan Reines
+-   Jaysukh Makvana
+
+</section>
+
+<!-- /.contributors -->
+
+</section>
+
+<!-- /.release -->
+
+<section class="release" id="v0.2.1">
+
+## 0.2.1 (2024-02-25)
+
+No changes reported for this release.
+
+</section>
+
+<!-- /.release -->
+
+<section class="release" id="v0.2.0">
+
+## 0.2.0 (2024-02-14)
+
+No changes reported for this release.
+
+</section>
+
+<!-- /.release -->
+
+<section class="release" id="v0.1.0">
+
+## 0.1.0 (2023-09-24)
+
+<section class="features">
+
+### Features
+
+-   [`e29732d`](https://github.com/stdlib-js/stdlib/commit/e29732dee616e2d94e91f87f78afd8aceb806017) - update minimum TypeScript version
+
+</section>
+
+<!-- /.features -->
+
+<section class="breaking-changes">
+
+### BREAKING CHANGES
+
+-   [`e29732d`](https://github.com/stdlib-js/stdlib/commit/e29732dee616e2d94e91f87f78afd8aceb806017): update minimum TypeScript version to 4.1
+
+    -   To migrate, users should upgrade their TypeScript version to at least version 4.1.
+
+</section>
+
+<!-- /.breaking-changes -->
+
+<section class="commits">
+
+### Commits
+
+<details>
+
+-   [`e29732d`](https://github.com/stdlib-js/stdlib/commit/e29732dee616e2d94e91f87f78afd8aceb806017) - **feat:** update minimum TypeScript version _(by Philipp Burckhardt)_
+
+</details>
+
+</section>
+
+<!-- /.commits -->
+
+<section class="contributors">
+
+### Contributors
+
+A total of 1 person contributed to this release. Thank you to this contributor:
+
+-   Philipp Burckhardt
+
+</section>
+
+<!-- /.contributors -->
+
+</section>
+
+<!-- /.release -->
+
+<section class="release" id="v0.0.6">
+
+## 0.0.6 (2022-02-16)
+
+No changes reported for this release.
+
+</section>
+
+<!-- /.release -->
+
+<section class="release" id="v0.0.5">
+
+## 0.0.5 (2021-08-22)
+
+No changes reported for this release.
+
+</section>
+
+<!-- /.release -->
+
+<section class="release" id="v0.0.4">
+
+## 0.0.4 (2021-07-07)
+
+No changes reported for this release.
+
+</section>
+
+<!-- /.release -->
+
+<section class="release" id="v0.0.3">
+
+## 0.0.3 (2021-06-28)
+
+No changes reported for this release.
+
+</section>
+
+<!-- /.release -->
+
+<section class="release" id="v0.0.2">
+
+## 0.0.2 (2021-06-16)
+
+No changes reported for this release.
+
+</section>
+
+<!-- /.release -->
+
+<section class="release" id="v0.0.1">
+
+## 0.0.1 (2021-06-15)
+
+No changes reported for this release.
+
+</section>
+
+<!-- /.release -->
+
