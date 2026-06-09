@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-06-08)
+## Unreleased (2026-06-09)
 
 <section class="features">
 
@@ -22,6 +22,7 @@
 
 <details>
 
+-   [`9630dd7`](https://github.com/stdlib-js/stdlib/commit/9630dd78446c77a6fbd9c666ba1eb1e7d480b096) - **docs:** order `float16` before `float32` in data type lists [(#12735)](https://github.com/stdlib-js/stdlib/pull/12735) _(by Philipp Burckhardt)_
 -   [`12ccf2e`](https://github.com/stdlib-js/stdlib/commit/12ccf2e393440f9e4f14ae013462d76dc43bc644) - **feat:** add float16 dtype support in `array/typed-ctors` [(#12710)](https://github.com/stdlib-js/stdlib/pull/12710) _(by Gururaj Gurram)_
 
 </details>
@@ -34,9 +35,10 @@
 
 ### Contributors
 
-A total of 1 person contributed to this release. Thank you to this contributor:
+A total of 2 people contributed to this release. Thank you to the following contributors:
 
 -   Gururaj Gurram
+-   Philipp Burckhardt
 
 </section>
 
